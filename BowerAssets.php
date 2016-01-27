@@ -9,9 +9,9 @@ use \yii\web\AssetBundle;
  */
 class BowerAssets extends AssetBundle
 {
-	public $sourcePath = '@bower/jquery-zclip';
+	public $sourcePath = '@bower/highcharts';
 
 	public $js = [
-		'jquery.zclip.js'
+		'highcharts.js'
 	];
 }
