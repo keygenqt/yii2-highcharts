@@ -1,11 +1,11 @@
 {
 	"name": "keygenqt/yii2-highcharts",
-	"description": "Widget from form image ajax load.",
+	"description": "Extension yii for library Highcharts",
 	"keywords": ["yii2", "extension", "widget", "jquery"],
-	"homepage": "https://github.com/keygenqt/yii2-highcharts",
+	"homepage": "https://keygenqt.com/work/yii2-highcharts",
 	"type": "yii2-extension",
 	"license": "Apache-2.0",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"authors": [
 		{
 			"name": "Vitaliy Zarubin",
