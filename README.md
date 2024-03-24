@@ -1,4 +1,4 @@
-HighCharts
+Yii2 HighCharts
 ===================
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/keygenqt/yii2-highcharts?label=Packagist%20Downloads)
